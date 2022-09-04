@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="">
+        <meta name="viewport" content="">
+        <title>Steaky Restaurantant Reservtion </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <div class="container">
+        <header>
+            <img src="https://cdn-icons-png.flaticon.com/800/8124/8124835.png" width="50px" height="80px" alt="restaurant recipe logo">
+        </header>
+        <nav>
+            <a href="#">HOME</a>
+            <a href="#">MENU</a>
+            <a href="#">ORDER ONLINE</a>
+            <a href="#">GIFT VOUCHER</a>
+            <a href="#">CATERING</a>
+            <a href="#">CONTACT</a>
+        </nav>
+        <main>
+            <h1>lets meat</h1>
+            <p>We love sharing good food with great people in Steaky. We bring over 30 years industry experience and passion to  With a dishes that are carefully designed to bring you a truly satisfying high food experience that you are sure to remember satisfying.</p>
+            <a href="https://www.schmidthaus.com" target="_blank">Make Reservation</a>
+            <section>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.0501537558957!2d55.26347551493376!3d25.201531083894185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43da3c6f3843%3A0x9dfb80e1554c9f7!2sMenu%20Prices%20UAE!5e0!3m2!1sen!2sng!4v1662262014288!5m2!1sen!2sng" width="700" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></section>
+        </main>
+        <footer>
+           <address> <P>Main st, Blackabbey, Steaky, Co Pepsum-Copyright 2017@</P></address>
+            </footer>
+        </div>
+
+
+    </body>
+
+</html>
